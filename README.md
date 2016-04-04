@@ -1,5 +1,5 @@
-# forward-project
-project example for the Engage Forward training program.
+# starter-project
+project example for the Engage Starter bootcamp program.
 
 ### Tech used in this project
 - Angular 1
